@@ -1,0 +1,99 @@
+
+[
+  {
+    "id": 1,
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on all summer wear!",
+    "cta": "Shop Now",
+    "image": "https://media.istockphoto.com/id/921504204/photo/women-are-shopping-in-the-summer-she-is-using-a-credit-card-and-enjoys-shopping.jpg?s=2048x2048&w=is&k=20&c=WZxs8DWyc9uKXoU2TGS_ziFH4dyttE3StJmNwMx9lPE=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+    "colorScheme": {
+      "text": "#FFFFFF",
+      "button": "#1dd1a1"
+    }
+  },
+  {
+    "id": 2,
+    "title": "New Arrivals",
+    "description": "Check out the latest trends in our collection.",
+    "cta": "Discover",
+    "image": "https://media.istockphoto.com/id/1350399117/photo/two-beautiful-young-women-enjoying-shopping-in-the-city-street-happy-and-smiling-sisters.jpg?s=2048x2048&w=is&k=20&c=7mDRKEeDngoJtd9Di91mhzLkBfcVZUgYxYEBDs8qYY8=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "colorScheme":{
+      "text":"#FFFFFF",
+      "button":"#eb4d4b"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Winter Collection",
+    "description": "Stay warm and stylish with our winter collection.",
+    "cta": "Explore",
+    "image": "https://media.istockphoto.com/id/1221319911/photo/girl-make-up-with-a-large-cosmetics-bag.jpg?s=2048x2048&w=is&k=20&c=JErsy2axpOxrYLiX_VJ7pH9zqGj-JMM3yaX9kxzoL78=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "colorScheme":{
+      "text":"#8395a7",
+      "button":"#30336b"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Flash Sale",
+    "description": "Limited time offer! Up to 70% off on selected items.",
+    "cta": "Buy Now",
+    "image": "https://media.istockphoto.com/id/1257160146/photo/beautiful-excited-happy-young-shopaholic-asian-woman-wearing-sungalsses-and-floppy-hat-posing.jpg?s=2048x2048&w=is&k=20&c=ZB26GZwPc3UOwqcRKrcIFowClb3m0tvQvWgv4Uexvig=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "colorScheme":{
+      "text":"#FFFFFF",
+      "button":"#576574"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on all summer wear!",
+    "cta": "Shop Now",
+    "image": "https://media.istockphoto.com/id/1169378197/photo/stylish-shopaholic-with-purchases.jpg?s=2048x2048&w=is&k=20&c=ggG8QLFfzzIgNECne4F5z99qT7f2K4Ar-aOUQunAV7s=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+    "colorScheme": {
+      "text": "#FFFFFF",
+      "button": "#1dd1a1"
+    }
+  },
+  {
+    "id": 6,
+    "title": "New Arrivals",
+    "description": "Check out the latest trends in our collection.",
+    "cta": "Discover",
+    "image": "https://media.istockphoto.com/id/1352427885/photo/full-length-profile-photo-of-carefree-charming-girl-look-empty-space-jumping-isolated-on.jpg?s=2048x2048&w=is&k=20&c=nB9HQpABppwIRmM-RInsrZ9q3cplRPGxSLq4BwlVZeM=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "colorScheme":{
+      "text":"#FFFFFF",
+      "button":"#eb4d4b"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Winter Collection",
+    "description": "Stay warm and stylish with our winter collection.",
+    "cta": "Explore",
+    "image": "https://media.istockphoto.com/id/675267902/photo/brunette-girl-near-wooden-wall-with-red-backpack.jpg?s=1024x1024&w=is&k=20&c=gdlNHA7OgIzT7j2oSFH8X1xKVG3R0s2Y8GhYFcQo7dA=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "colorScheme":{
+        "text":"#8395a7",
+      "button":"#30336b"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Flash Sale",
+    "description": "Limited time offer! Up to 70% off on selected items.",
+    "cta": "Buy Now",
+    "image": "https://media.istockphoto.com/id/1210054184/photo/joyful-pretty-asian-girl-carrying-shopping-bags-with-summer-dress-and-enjoys-shopping.jpg?s=1024x1024&w=is&k=20&c=u4eml1fdzl8OCWv0b2FI5yDSWyBttOPUOHy9hTcFPEA=",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "colorScheme":{
+      "text":"#FFFFFF",
+      "button":"#576574"
+    }
+  }
+]
