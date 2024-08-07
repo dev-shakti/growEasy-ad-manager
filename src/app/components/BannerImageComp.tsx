@@ -19,8 +19,8 @@ const BannerImageComp: React.FC<BannerImageCompProps> = ({ banner, onEdit }) => 
       }}
     >
       <div className="relative z-10" style={{ color: banner.colorScheme.text }}>
-        <div className="absolute top-2 right-2 cursor-pointer" onClick={() => onEdit(banner)}>
-          <FiEdit  className="text-gray-400 hover:text-gray-300" size={24} />
+        <div className="absolute top-1 right-2 cursor-pointer bg-white p-2 rounded-full" onClick={() => onEdit(banner)}>
+          <FiEdit  className="text-gray-400 hover:text-gray-500" size={20} />
         </div>
         <h2 className="text-xl font-bold mb-2">{banner.title}</h2>
         <p className="mb-2">{banner.description}</p>
